@@ -94,6 +94,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
 - [XDA](https://www.xda-developers.com) : Android Developers News
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
+- [Rekt](https://rekt.news/) : A journalism related to Defi, Web3, Blockchain and security on them.
 - [Hackaday](https://hackaday.com) : Hacking is an art form that uses something in a way in which it was not originally intended.
 
 <div align="right">
@@ -136,23 +137,25 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
+- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## CryptoCurrency
+- [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
-- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
-- [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
-- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
+- [Learn About Bitcoin and Lightning Protocol](https://chaincode.gitbook.io/seminars/): Complete 4 weeks seminar ciricullum for learning about Bitcoin.
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
 - [Learn Web3 DAO](https://learnweb3.io/): Learn to become a Web3 Developer for free. 
-- [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
+- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
+- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
+- [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -183,7 +186,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
 - [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
-- [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
+- [MITRE - Top 25 Most Dangerous Software Weaknesses (2022)](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html) : The currently most common and impactful software weaknesses.
 - [Software Architecture Guide](https://martinfowler.com/architecture/) : A site by Martin Fowler about Software Architecture patterns and best practices to help building software effectively.
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
@@ -231,6 +234,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
+- [Kody Tools](https://www.kodytools.com/dev-tools): 100+ dev tools including code converters, formatters, and minifiers.
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Wit AI](https://wit.ai) : Natural Language for Developers
@@ -247,11 +251,15 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
 - [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
+- [Sourcegraph](https://sourcegraph.com/search) : Online tool for searching millions of open source repositories.
 - [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) : Online and open source SVG Path editor.
 - [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
 - [Replit.com](https://replit.com): Free, collaborative, in-browser IDE to code in 50+ languages.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
+- [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
+- [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -275,6 +283,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Interview Preparation
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
+- [A Developer's Guide to Working with Recruiters](https://andreidobrinski.com/blog/a-developers-guide-to-working-with-recruiters/)
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
 - [Aptitude Questions and Answers](http://www.indiabix.com) : Quant and aptitude preparation
 - [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
@@ -436,8 +445,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
 - [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
-- [Machine Learning Mastery](https://machinelearningmastery.com/) : An comprehensive blog that contains guidance, tutorials, and e-book for mastering ML
+- [Machine Learning Mastery](https://machinelearningmastery.com/) : A comprehensive blog that contains guidance, tutorials, and e-book for mastering ML
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) : A jumpstart AI course from Google
+- [Machine Learning Tutorial: A Step-by-Step Guide for Beginners](https://www.simplilearn.com/tutorials/machine-learning-tutorial) : A one-stop playlist for all the basics of Machine Learning simplified, from Logistic Regression to Reinforcement Learning.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -458,6 +468,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Everything in one place
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [Baeldung](https://www.baeldung.com) : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin
+- [Branition Colors](https://branition.com/colors) : Collection of hand-curated color palettes best fitted for branding.
 - [cheat.sh](https://github.com/chubin/cheat.sh) : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`
 - [Developer Roadmaps](https://roadmap.sh/) : Step by step guides and paths to learn different tools or technologies
 - [DevURLs](https://devurls.com/) : Developer news aggregator
@@ -615,6 +626,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Tutorials
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
+- [A Byte of Python](https://python.swaroopch.com) : a free beginner introduction to python
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
 - [CMSI 281: Data Structures](http://cs.lmu.edu/~ray/classes/dsa/) : lightweight introduction to DS
 - [Collecting all the cheat sheets](http://overapi.com) : cheat sheets for lots of programming languages
@@ -692,10 +704,12 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Competitive programming
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
+- [Advent of Code](https://adventofcode.com) : An Advent calendar of small programming puzzles
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
+- [CodeEval](https://www.codeeval.dev/) : Notepad for notes and code snippets, stored locally in the browser
 - [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
@@ -762,8 +776,13 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Online Compiler and Sharing Code snippets
+- [C9.io](https://c9.io) : Your development environment, in the cloud
+- [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
+- [Codeframe](https://codeframe.co/) : Online pastebin-like playground for building websites using HTML, CSS, and JavaScript 
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
+- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
 - [Codesandbox.io](https://codesandbox.io) : CodeSandbox makes it easier to create, share, and reuse React projects with others.
+- [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
 - [Ideone.com](https://ideone.com) : online compiler and debugging tool for more than 60 programming languages
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
@@ -771,12 +790,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Judge0 IDE](https://ide.judge0.com) : Online compiler with 40+ interpreters and compilers.
 - [Pastebin.com](https://pastebin.com) : Pastebin can store texts like code, notes, and snippets online for a set time which can be shared instantly.
 - [PlayCode](https://playcode.io/) : Online Javascript playground with a built-in console and support for npm packages.
-- [C9.io](https://c9.io) : Your development environment, in the cloud
-- [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
-- [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
-- [Carbon](https://carbon.now.sh/) : Create pretty looking images of your code snippets.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
-- [Codeframe](https://codeframe.co/) : Online pastebin-like playground for building websites using HTML, CSS, and JavaScript 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -807,6 +821,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
 - [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
+- [Linux Forums](https://www.linux.org/forums) : A Friendly Linux Forum
 - [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) : Lucas Vieira Barbosa's lab original math and physics visualization
 - [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
 - [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
@@ -862,6 +877,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Open Source Websites
+- [N-O-D-E](https://n-o-d-e.net/) : Everything open-source and hacker culture - news, zines, and projects
 - [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
 - [Source Forge](https://sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
 - [Google Code](https://code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
